@@ -1,0 +1,6 @@
+{
+    "id": 1,
+    "name": "Evaristo Rivera",
+    "email": "evaristo.rivera@medicos.co",
+    "age": 43
+}
